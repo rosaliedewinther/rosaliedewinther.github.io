@@ -1,0 +1,4 @@
+baseURL = 'https://jasperdewinther.github.io'
+languageCode = 'en-us'
+title = 'My Projects'
+theme = 'ananke'
