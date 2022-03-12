@@ -1,8 +1,7 @@
 ---
-title: "Jasper de Winther"
+title: "Hi there"
 
-description: "My projects from uni, internships and in my spare time."
+description: "This website showcases some of my projects from uni, internships and my spare time."
 cascade:
   featured_image: '/images/sheep_high_def.png'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
