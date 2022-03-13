@@ -1,7 +1,7 @@
 ---
 title: "Advanced Graphics @UU"
 date: 2022-02-01
-draft: true
+draft: false
 featured_image: '/images/detailed_thin.png'
 ---
 
