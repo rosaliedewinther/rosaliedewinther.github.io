@@ -1,7 +1,7 @@
 ---
 title: "Voxels"
 date: 2022-02-01
-draft: true
+draft: false
 featured_image: '/images/voxels_hills.png'
 ---
 
