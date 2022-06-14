@@ -2,6 +2,7 @@
 title: "Principal component analysis of League of Legends Champions"
 date: 2021-10-10
 draft: false
+featured_image: '/images/PCA_LOL_half_result.png'
 ---
 
 
