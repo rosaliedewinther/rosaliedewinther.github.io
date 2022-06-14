@@ -13,11 +13,11 @@ The following stats were considered in the PCA:
 
 * Win rate by game duration timespans
 * Game duration
-* Play rate by top players (approximately top 1% of the player base)
+* Play rate by top players (best at the champion)
 * Win rate of top players
 * Average rank of top players, whether they are top 1% or top 0.001%
 * Play rate
-* Dedication of one trick's, they only play the same champion
+* Dedication of one trick's, whether they only play the same champion
 * Win rate
 * Play rate per role
 * Physical damage

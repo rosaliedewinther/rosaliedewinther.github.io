@@ -1,5 +1,5 @@
 ---
-title: "Hi there"
+title: " "
 
 description: "This website showcases some of my projects from uni, internships and my spare time."
 cascade:
