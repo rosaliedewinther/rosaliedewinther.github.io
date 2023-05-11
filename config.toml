@@ -1,5 +1,5 @@
-baseURL = 'https://jasperdewinther.github.io'
+baseURL = 'https://rosaliedewinther.github.io'
 languageCode = 'en-us'
-title = 'Jasper de Winther'
+title = 'Rosalie de Winther'
 theme = 'ananke'
 enableRobotsTXT = true
