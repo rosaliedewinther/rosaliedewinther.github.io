@@ -6,5 +6,3 @@ description: "This website showcases some of my projects from uni, internships o
 cascade:
   featured_image: '/images/advanced_graphics_sheep_high_def.png'
 ---
-
-{{< mastodon "https://mastodon.gamedev.place/@Jasper_wwww" >}}
